@@ -11,7 +11,7 @@
 
 ### 👀 About Me
 
-- 🌱 I’m currently learning **Cybersecurity, Image Processing, Front-End Development**.
+- 🌱 I’m currently learning **Cybersecurity, Image Processing, Front-End Development,full stack webdevlopment**.
 - 💻 My key skills include **Java, Python, Machine Learning, MATLAB, HTML, CSS, JavaScript, SQL, Bootstrap, Kotlin**.
 - 💞️ I’m looking to collaborate on **ML, Web Development, VLSI, or Embedded Systems** projects.
 - 🎨 In my free time, I enjoy **acrylic painting** and **yoga** to keep a balance!
