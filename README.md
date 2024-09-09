@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" style="max-width: 100%;" />
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2316B4F2&size=30&center=true&vCenter=true&width=450&lines=Electronics+%26+Communication+Engineer;Machine+Learning+Enthusiast;Web+Developer;Kotlin+Lover;Lifelong+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2316B4F2&size=30&center=true&vCenter=true&width=450&lines=Electronics+%56+Communication+Engineer;Machine+Learning+Enthusiast;Web+Developer;Kotlin+Lover;Lifelong+Learner" alt="Typing SVG" />
 </p>
 
 ---
