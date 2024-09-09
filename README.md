@@ -1,60 +1,80 @@
-<h1 align="center">Hi 👋, I'm Subhadarshini Das</h1>
-<h3 align="center">A passionate developer and tech enthusiast interested in Java, Python, ML, and more!</h3>
-
+<!-- 3D Profile Heading -->
+<h1 align="center">
+  Welcome to My World 🌍
+</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Electronics+%26+Communication+Engineer;Machine+Learning+Enthusiast;Full-Stack+Web+Developer;Lifelong+Learner&center=true&width=500&height=50">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dassubhadarshini&theme=darkhub&row=1&no-frame=true&column=7" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dassubhadarshini&style=flat-square&color=blue" alt="profile views"/>
+  <img src="https://your-image-link.com/3d-banner.png" width="100%" alt="Banner with tech and innovation vibes">
 </p>
 
 ---
 
-### 👩‍💻 About Me:
+### 👋 About Me
 
-- 🔭 I’m currently working on **Machine Learning and Web Development projects**
-- 🌱 I’m currently learning **Cybersecurity, Image Processing, and VLSI**
-- 💬 Ask me about **Java, Python, ML, or Front-End Development**
-- 😄 Pronouns: **She/Her**
-- ⚡ Fun fact: I love **acrylic painting and yoga** to stay creative and relaxed!
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
+</p>
+
+- 🌱 Currently expanding my knowledge in **Cybersecurity, Image Processing, and Front-End Development**.
+- 🔥 Passionate about developing solutions with **Java, Python, Machine Learning, HTML, CSS, Kotlin, and more**.
+- 💡 Fun fact: I enjoy **yoga** and **acrylic painting** to refresh my mind!
 
 ---
 
-### 🔧 Technologies & Tools:
+### 🛠️ Tech Stack & Tools I Use
+
 <p align="center">
+  <!-- 3D or animated icons from 3dicons.io -->
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MATLAB-FF0000?style=for-the-badge&logo=matlab&logoColor=white"/>
 </p>
 
 ---
 
-### 📈 GitHub Stats:
+### 🔥 GitHub Stats
+
+<!-- Adding Animated Card and 3D Github stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dassubhadarshini&show_icons=true&theme=radical" alt="Subhadarshini's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dassubhadarshini&theme=dark&hide_border=true&background=00000000" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=dassubhadarshini&show_icons=true&hide_border=true&theme=radical&bg_color=00000000" width="48%">
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dassubhadarshini&theme=radical" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dassubhadarshini&layout=compact&theme=radical" alt="Top Languages"/>
+  <!-- Top Languages Dynamic Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dassubhadarshini&layout=compact&hide_border=true&theme=radical&bg_color=00000000" width="50%">
 </p>
 
 ---
 
-### 🤝 Connect with Me:
+### 🚀 Fun Interactive Features
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/dassubhadarshini"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <!-- Particle Animation Background -->
+  <img src="https://vincentgarreau.com/particles.js" alt="Interactive Particles Background">
+
+  <!-- Visitors Counter -->
+  <img src="https://visitor-badge.glitch.me/badge?page_id=dassubhadarshini.visitor-badge&style=for-the-badge&logo=GitHub&logoColor=white">
 </p>
+
+---
+
+### ✨ Animated Background
+
+![Innovative Background](https://your-image-link.com/animated-background.gif)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l4FGGafcOHmrlQxGk/giphy.gif" width="300" alt="Tech Innovation Animation">
+</p>
+
+### 📫 Reach Me
+<p align="center">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dassubhadarshini"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="200" alt="coding gif">
+</p>
+
