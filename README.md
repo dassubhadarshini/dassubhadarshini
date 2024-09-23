@@ -46,24 +46,7 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
----
 
-## 🎨 Innovative Background
-
-<p align="center">
-  <img src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" width="300px" />
-  <img src="https://media.giphy.com/media/26gsspf0hG9tGJk4Q/giphy.gif" width="300px"/>
-</p>
-
----
-
-## 🌍 Dynamic Particles Background
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Ashutosh00710/github-readme-activity-graph@main/graph/1417323469.svg" alt="activity graph" />
-</p>
-
----
 
 ## 🧑‍💻 Let's Connect!
 
